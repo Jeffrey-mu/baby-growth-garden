@@ -2,6 +2,10 @@
 
 一个只属于我们家的宝宝成长小站 —— 从备孕、孕程，到出生、长大，一路记录到 18 岁以后。
 
+> 🌐 **在线访问：[https://baby.jiafeng.online](https://baby.jiafeng.online)**
+>
+> 📦 **源码仓库：[github.com/Jeffrey-mu/baby-growth-garden](https://github.com/Jeffrey-mu/baby-growth-garden)**
+
 **技术**：Vite + React + TypeScript，纯前端、无后端，数据保存在浏览器 localStorage 里，离线也能用。
 
 ---
