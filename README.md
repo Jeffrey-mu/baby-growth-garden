@@ -2,7 +2,7 @@
 
 一个只属于我们家的宝宝成长小站 —— 从备孕、孕程，到出生、长大，一路记录到 18 岁以后。
 
-> 🌐 **在线访问：[https://baby.jiafeng.online](https://baby.jiafeng.online)**
+> 🌐 **在线访问：[http://baby.jiafeng.online](http://baby.jiafeng.online)**
 >
 > 📦 **源码仓库：[github.com/Jeffrey-mu/baby-growth-garden](https://github.com/Jeffrey-mu/baby-growth-garden)**
 
